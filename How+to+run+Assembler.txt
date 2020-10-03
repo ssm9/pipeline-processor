@@ -1,7 +1,0 @@
-How to run Assembler
-
-$ python Ass2Mif.py filename.a32
-
-Output will be filename.mif
-
-Any errors you make will not show up. Python will complain to you though.
